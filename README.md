@@ -7,3 +7,6 @@
 - 📫 How to reach me: *telepathy*
 - 😄 Pronouns: *fa/rt*
 - ⚡ Fun fact: *am fart*
+
+## Stats
+[![shartstats](https://github-readme-stats.vercel.app/api?username=thetoasta)](https://github.com/anuraghazra/github-readme-stats)
