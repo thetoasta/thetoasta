@@ -10,3 +10,4 @@
 
 ## Stats
 [![shartstats](https://github-readme-stats.vercel.app/api?username=thetoasta)](https://github.com/anuraghazra/github-readme-stats)
+[![shartstatsv2](https://github-profile-trophy.vercel.app/?username=thetoasta&theme=chalk)
