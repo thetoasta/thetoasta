@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on *a weird social media*
-- 🌱 I’m currently learning *stuff idk*
-- 🤔 I’m looking for help with *html, ts*
-- 💬 Ask me about *video games*
-- 📫 How to reach me: *telepathy*
-- 😄 Pronouns: *fa/rt*
-- ⚡ Fun fact: *am fart*
+hello! i'm toasta, a coder that basically used to use ai for projects and now knows how to code C#!
+**current project:** toastOS, a open source OS that will take years fr
+**skill level** partially C#, lots of Windows Forms applications, and HTML!
+**contact me:** don't
+**bye!**
 
 ## Stats
 [![shartstats](https://github-readme-stats.vercel.app/api?username=thetoasta)](https://github.com/anuraghazra/github-readme-stats)
