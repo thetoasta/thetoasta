@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-hello! i'm toasta, a coder that basically used to use ai for projects and now knows how to code C#!
-**current project:** toastOS, a open source OS that will take years fr
-**skill level** partially C#, lots of Windows Forms applications, and HTML!
-**contact me:** don't
+hello! i'm toasta-a fairly ok coder and also a cool guy<br />
+**current project:** toastOS, a open source OS that will take years fr<br />
+**skill level** creating a OS, so c. also lots of py, c# and also some rust<br />
+**contact me:** contact me at development@toastreal.xyz<br />
 **bye!**
 
 ## Stats
