@@ -7,5 +7,4 @@ hello! i'm toasta-a fairly ok coder and also a cool guy<br />
 **bye!**
 
 ## Stats
-[![shartstats](https://github-readme-stats.vercel.app/api?username=thetoasta)](https://github.com/anuraghazra/github-readme-stats)
-[![shartstatsv2](https://github-profile-trophy.vercel.app/?username=thetoasta&theme=chalk)
+[![trophy](https://github-profile-trophy.vercel.app/?username=thetoasta&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
